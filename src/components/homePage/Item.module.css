@@ -1,0 +1,11 @@
+.stool{
+        color: black;
+        overflow: hidden;
+}
+.stool:hover{
+        color: orange;
+}
+
+.stool:hover img{
+        transform: scale(1.1);
+}
